@@ -1,0 +1,28 @@
+name: Reverse Bullets
+favicon: null
+layout_spectrum: 0.3988430816680193
+typography_spectrum: 0.05351987946778536
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.941434531705454
+  lightness: 0.844515944365412
+  saturation: 0.8272977308370173
+  rhythmicContrast: 0.19470314541831613
+purpose: []
