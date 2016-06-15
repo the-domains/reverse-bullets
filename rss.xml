@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Reverse Bullets]]></title>
         <description><![CDATA[Reverse Bullets]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reverse-bullets/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 22:22:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 15 Jun 2016 12:20:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reverse-bullets/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>New Klaas von Karlos album in the Fall // Keep your eyes and ears open for something all new and all different.. #mansamusaaffair</p>]]></description>
+            <link>https://www.facebook.com/110678615684598/photos/a.251517231600735.61342.110678615684598/1000745966677854/?type=3</link>
+            <guid isPermaLink="false">45a83649-85fb-40e9-aa23-6f95eaf6c197</guid>
+            <pubDate>Wed, 15 Jun 2016 12:20:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-lhr3-1.xx.fbcdn.net/t31.0-0/p600x600/13392111_1000745966677854_142712889060063430_o.png">]]></description>
+            <link>https://thegrid.ai/reverse-bullets/12b87378-9df1-4567-a2f2-e68e99f70411/index.html</link>
+            <guid isPermaLink="false">12b87378-9df1-4567-a2f2-e68e99f70411</guid>
+            <pubDate>Wed, 15 Jun 2016 12:19:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent.fash1-1.fna.fbcdn.net/t31.0-8/13403168_1809964089236589_8698274129158094107_o.jpg">]]></description>
-            <link>undefinedcd14c918-580c-4478-9531-607ea3382cc7/index.html</link>
+            <link>https://thegrid.ai/reverse-bullets/cd14c918-580c-4478-9531-607ea3382cc7/index.html</link>
             <guid isPermaLink="false">cd14c918-580c-4478-9531-607ea3382cc7</guid>
             <pubDate>Tue, 14 Jun 2016 22:22:24 GMT</pubDate>
         </item>
